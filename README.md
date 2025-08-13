@@ -35,17 +35,6 @@ The site serves as a **dynamic, responsive, and comprehensive** showcase of my p
 
 ---
 
-## Deployment (GitHub Pages)
-
-To deploy your own version:
-
-1. **Fork** this repository.
-2. **Rename** it to `your-username.github.io`.
-3. In repository **Settings → Pages**, set the source to `main` and folder to `/ (root)`.
-4. Access it at: `https://your-username.github.io`
-
----
-
 ## Contact
 
 * **LinkedIn:** [linkedin.com/in/rouaa-guesmi](https://linkedin.com/in/rouaa-guesmi)
